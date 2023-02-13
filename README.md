@@ -7,7 +7,7 @@ This is the README of the  project of Bayesian Statistics Course (Academic Year 
 
 *** WHO WE ARE ***************************************************************************************************************
 
-  We are group 12, these are the members:
+  These are the members:
   G. Barbato
   M. Cosi
   M. Del Basso
