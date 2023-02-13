@@ -21,12 +21,11 @@ This is the README of the  project of Bayesian Statistics Course (Academic Year 
   The project was carried out using two programming languages: R and (little C++).
   This is the content of the documents we have attached:
 
-  1) Simulated_Data.R             : Here you can find the R code of our complete model. More accuratively we create Simulated Data. 
-                                    From the derived Full conditional we run the Gibbs Sampler and finally we make prediction using 
+  1) Simulated_Data.R             : Here you can find the R code of our complete model. More accurately we create Simulated Data. 
+                                    From the derived Full Conditionals we run the Gibbs Sampler and finally we make prediction using 
 				    kriging method for unkonwn locations.
             
-  2) Real_data Natural Sea.R      : We follow the same modus operandi of Simulated_Data, but in this case using real data.
-. 
+  2) Real_data Natural Sea.R      : We follow the same modus operandi of Simulated_Data, but in this case using Real Data. 
 
   3) Real_Data Flat Sea.R         : This code is speculate to the Real_data Natural Sea, but we change the covariate (population density) 
                                     taking into account the "sea problem".
@@ -38,7 +37,7 @@ This is the README of the  project of Bayesian Statistics Course (Academic Year 
                                     function of every entry of the input matrices. 
   
   
-  Also, last but not least the datasets to run the codes, placed in this folder: 
+  Also, last but not least the datasets to run the codes placed in this folder: 
 
   6) DATASETS.zip
 
